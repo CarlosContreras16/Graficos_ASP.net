@@ -1,1 +1,1 @@
-# Graficos_ASP.net
+# Sistema de Ventas C# y SQL_Server
